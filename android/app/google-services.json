@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "241401672185",
+    "project_id": "women-workout-fatburn",
+    "storage_bucket": "women-workout-fatburn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241401672185:android:7f3e5c2972fd0809110d28",
+        "android_client_info": {
+          "package_name": "com.pas.women.workout.fatburn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241401672185-dcbc2pch683co3nl4rcq2ltqiqfdv13k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ3fOmxyiQ4xWG2ZYRXvv-N94MrZrol_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241401672185-dcbc2pch683co3nl4rcq2ltqiqfdv13k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9145585496357863~8465786910"
+    }
+  ],
+  "configuration_version": "1"
+}

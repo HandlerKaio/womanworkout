@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">googleads.g.doubleclick.net</domain>
+        <domain includeSubdomains="true">googleads.g.doubleclick</domain>
+        <domain includeSubdomains="true">googleads.g</domain>
+        <domain includeSubdomains="true">googleads</domain>
+    </domain-config>
+</network-security-config>
